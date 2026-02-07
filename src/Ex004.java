@@ -1,4 +1,4 @@
-public class Exercise4 {
+public class Ex004 {
     public static void main(String[] args) {
 
         int a = -5 + 8 * 6;
