@@ -16,7 +16,6 @@ public class Ex005 {
         } else  {
             System.out.println("Obrigado pela compra! volte sempre :)");
             System.out.print("Gastou: " + totalCompra);
-
         }
     }
 }
