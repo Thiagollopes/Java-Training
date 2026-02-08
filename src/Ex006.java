@@ -43,17 +43,15 @@ public class Ex006 {
 //            num++;
 //        }
 
-        // Senha incorreta
-//        int num = 1;
-//        while (num != 1234) {
+        // Senha incorreta ATENÇÃO AQUI
+//        Scanner scanner = new Scanner(System.in);
+//        int senha = 1;
+//
+//        while (senha != 1234) {
 //            System.out.println("Digite sua senha");
-//            Scanner scanner = new Scanner(System.in);
-//            int numeroDigitado = scanner.nextInt();
-//            num = numeroDigitado;
+//            senha = scanner.nextInt();
 //        }
-//        System.out.println("Senha correta");
-
-        
+//        System.out.println("Senha correta!");
     }
 
 }
